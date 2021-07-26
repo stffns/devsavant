@@ -1,0 +1,14 @@
+{
+  "name": "techtest",
+  "version": "1.0.0",
+  "description": "Tech Test DevSavant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jayson Steffens",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.0.0"
+  }
+}
